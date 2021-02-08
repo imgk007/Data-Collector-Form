@@ -1,3 +1,3 @@
 # Data-Collector-Form
 
-###This is just basic form for collecting datas. Still work is on progress
+This is Data collecting form for collecting datas for an apartment. Still work is on progress
